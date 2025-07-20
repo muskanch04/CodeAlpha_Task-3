@@ -134,5 +134,9 @@ Whether you're a developer looking to explore media API integration or a designe
 ## 💻 Output
 
 ![Image](https://github.com/user-attachments/assets/42ef38c8-6007-40df-ae62-39cad10bb274)
+
+
 ![Image](https://github.com/user-attachments/assets/3fc904eb-ddc4-40b4-b96b-52ffb10342f6)
+
+
 ![Image](https://github.com/user-attachments/assets/4bdea232-dbb5-43cb-afb0-d40dc17734ae)
