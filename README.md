@@ -132,3 +132,7 @@ This **Music Player Web App** demonstrates how core front-end technologies—**H
 Whether you're a developer looking to explore media API integration or a designer aiming to create rich UI experiences, this project provides a clean, effective example of blending aesthetics with interactivity using only web fundamentals.
 
 ## 💻 Output
+
+![Image](https://github.com/user-attachments/assets/42ef38c8-6007-40df-ae62-39cad10bb274)
+![Image](https://github.com/user-attachments/assets/3fc904eb-ddc4-40b4-b96b-52ffb10342f6)
+![Image](https://github.com/user-attachments/assets/4bdea232-dbb5-43cb-afb0-d40dc17734ae)
